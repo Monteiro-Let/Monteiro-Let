@@ -34,6 +34,11 @@
   <img height="80" width="80" src="https://cdn.picrew.me/shareImg/org/202410/2463845_UY6AGaiz.png"/>
 </div>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Monteiro-Let/Monteiro-Let/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Monteiro-Let/Monteiro-Let/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Monteiro-Let/Monteiro-Let/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
