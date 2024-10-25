@@ -1,4 +1,8 @@
-<h1>Olá! eu sou Letícia Monteiro⚡</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ff64da&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Olá!+eu+sou+Letícia+Monteiro+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div><br>
 <div>
   <ul style="list_style: none">
     <li>☕ Buscando primeira vaga de Dev Front-end</li>
@@ -9,8 +13,8 @@
 
 <div>
   <a href="https://github.com/Monteiro-Let"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Monteiro-Let&theme=monokai&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monteiro-Let&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Monteiro-Let&theme=jolly&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monteiro-Let&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div><br>
 
 <div style="display: inline_block"><br>
