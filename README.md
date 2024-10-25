@@ -1,4 +1,11 @@
-<h1>Olá! Eu sou a Letícia Monteiro</h1><br>
+<h1>Olá! eu sou Letícia Monteiro⚡</h1>
+<div>
+  <ul style="list_style: none">
+    <li>☕ Buscando primeira vaga de Dev Front-end</li>
+    <li>🌱 Estudando Desenvolvimento Full Stack e UX Design</li>
+    <li>🤘 Apaixonada por Rock</li>
+  </ul>
+</div><br>
 
 <div>
   <a href="https://github.com/Monteiro-Let"></a>
